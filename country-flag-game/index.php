@@ -1,9 +1,10 @@
-<?php>
+<?php
 
 
-//include_once("p2.php");
-  echo "hey";
+// include_once("p2.html");
+
+echo "hey";
 
 // included it so Heroku can set up php libraries?
 
-<?>
+?>
